@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 namespace CSharp.Controllers
 {
 	[ApiController]
-	[Route("[controller]")]
+	[Route("tweet")]
 	public class Test : ControllerBase
 	{ 
 		[HttpGet]

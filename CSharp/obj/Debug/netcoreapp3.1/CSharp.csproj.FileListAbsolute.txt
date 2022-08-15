@@ -18,3 +18,27 @@ C:\Users\wassi\Documents\Sogeti\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\s
 C:\Users\wassi\Documents\Sogeti\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
 C:\Users\wassi\Documents\Sogeti\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
 C:\Users\wassi\Documents\Sogeti\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\CSharp.StaticWebAssets.xml
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.AssemblyReference.cache
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\staticwebassets\CSharp.StaticWebAssets.Manifest.cache
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.RazorTargetAssemblyInfo.cache
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\Data\customers.json
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\Data\orders.json
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\thing1\Documents\Important and quick access\applications\tech-assessment\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CopyComplete
